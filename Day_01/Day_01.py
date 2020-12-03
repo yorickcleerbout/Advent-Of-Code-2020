@@ -16,7 +16,6 @@ for i in results:
         f" {i[0]} + {i[1]} = {RESULT}!\n{i[0]} x {i[1]} = {i[0] * i[1]}", end='\n\n')
 
 
-results = [(x, y, z) for x, y, z in itertools.combinations(
-    data, 3) if x + y + z == RESULT]
+results = [(x, y, z) for x, y, z in itertools.combinations(data, 3) if x + y + z == RESULT]
 for i in results:
     print(f" {i[0]} + {i[1]} + {i[2]} = {RESULT}!\n{i[0]} x {i[1]} x {i[2]}= {i[0] * i[1] * i[2]}", end='\n\n')
