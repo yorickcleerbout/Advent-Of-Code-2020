@@ -47,7 +47,6 @@ The locations you'd check in the above example are marked here with `O` where th
 > #.##...#...#.##...#...#.X#...#...#.##...#...#.##...#...#.##...#...<br>
 > #...##....##...##....##...#X....##...##....##...##....##...##....#<br>
 > .#..#...#.#.#..#...#.#.#..#...X.#.#..#...#.#.#..#...#.#.#..#...#.#<br>
-<br><br>
 
 In this example, traversing the map using this slope would cause you to encounter `7` trees.
 
