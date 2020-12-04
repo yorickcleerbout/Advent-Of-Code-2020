@@ -16,7 +16,7 @@ Due to the local geology, trees in this area only grow on exact integer coordina
 > .#..#...#.#<br>
 <br>
 These aren't the only trees, though; due to something you read about once involving arboreal genetics and biome stability, the same pattern repeats to the right many times:<br>
-> ..##.........##.........##.........##.........##.........##.......<br>
+> ..##.........##.........##.........##.........##.........##.......<br>e
 > #...#...#..#...#...#..#...#...#..#...#...#..#...#...#..#...#...#..<br>
 > .#....#..#..#....#..#..#....#..#..#....#..#..#....#..#..#....#..#.<br>
 > ..#.#...#.#..#.#...#.#..#.#...#.#..#.#...#.#..#.#...#.#..#.#...#.#<br>
