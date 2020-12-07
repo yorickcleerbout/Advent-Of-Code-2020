@@ -50,4 +50,4 @@ def pp(bag):
 
 
 pp('shiny gold')
-input()
+
