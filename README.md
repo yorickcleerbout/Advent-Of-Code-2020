@@ -17,7 +17,7 @@ If you want to try it out your self, you can sign up on there [website!](https:/
 | ✔ [Day 6: Custom Customs](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_06)                                                                                          |    🌟      |    🌟      |
 | ✔ [Day 7: Handy Haversacks](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_07)                                                                                          |     🌟     |     🌟     |
 | ✔ [Day 8: Handheld Halting](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_08)                                                                                          |    🌟      |     🌟     |
-| [Day 9: Encoding Error](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_09)                                                                                          |          |          |
+| ✔ [Day 9: Encoding Error](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_09)                                                                                          |     🌟     |     🌟     |
 | [Day 10: TBD]()                                                                                         |          |          |
 | [Day 11: TBD]()                                                                                         |          |          |
 | [Day 12: TBD]()                                                                                         |          |          |
