@@ -19,7 +19,7 @@ If you want to try it out your self, you can sign up on there [website!](https:/
 | ✔ [Day 8: Handheld Halting](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_08)                                                                                          |    🌟      |     🌟     |
 | ✔ [Day 9: Encoding Error](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_09)                                                                                          |     🌟     |     🌟     |
 | ✔ [Day 10: Adapter Array](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_10)                                                                                         |     🌟     |     🌟     |
-| [Day 11: TBD]()                                                                                         |          |          |
+| ✔ [Day 11: Seating System](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_11)                                                                                         |    🌟      |     🌟     |
 | [Day 12: TBD]()                                                                                         |          |          |
 | [Day 13: TBD]()                                                                                         |          |          |
 | [Day 14: TBD]()                                                                                         |          |          |
