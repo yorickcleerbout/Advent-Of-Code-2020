@@ -21,8 +21,8 @@ If you want to try it out your self, you can sign up on there [website!](https:/
 | ✔ [Day 10: Adapter Array](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_10)                                                                                         |     🌟     |     🌟     |
 | ✔ [Day 11: Seating System](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_11)                                                                                         |    🌟      |     🌟     |
 | ✔ [Day 12: Rain Risk](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_12)                                                                                         |     🌟     |     🌟     |
-| [Day 13: Shuttle Search]()                                                                                         |          |          |
-| [Day 14: TBD]()                                                                                         |          |          |
+| ✔ [Day 13: Shuttle Search](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_13)                                                                                         |     🌟     |    🌟      |
+| ✔ [Day 14: Docking Data](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_14)                                                                                         |     🌟     |     🌟     |
 | [Day 15: TBD]()                                                                                         |          |          |
 | [Day 16: TBD]()                                                                                         |          |          |
 | [Day 17: TBD]()                                                                                         |          |          |
