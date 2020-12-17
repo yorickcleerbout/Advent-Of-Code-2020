@@ -12,9 +12,9 @@ Each ticket is represented by a single line of comma-separated values. The value
 
 .--------------------------------------------------------.<br>
 | ????: 101 ?????: 102 ??????????: 103 ???: 104&ensp;&ensp;&ensp;&ensp;&ensp;|<br>
-| &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|<br>
-| ??: 301 ??: 302 ???????: 303 ??????? &ensp;&ensp;&ensp;&ensp; |<br>
-| ??: 401 ??: 402 ???? ????: 403 ?????????&ensp;&ensp;&ensp;&ensp; |<br>
+| &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|<br>
+| ??: 301 ??: 302 ???????: 303 ??????? &ensp;&ensp;&ensp;&ensp; &ensp;&ensp;&ensp;&ensp;&ensp;|<br>
+| ??: 401 ??: 402 ???? ????: 403 ?????????&ensp;&ensp;&ensp;&ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|<br>
 '--------------------------------------------------------'
 
 Here, `?` represents text in a language you don't understand. This ticket might be represented as `101,102,103,104,301,302,303,401,402,403`; of course, the actual train tickets you're looking at are **much** more complicated. In any case, you've extracted just the numbers in such a way that the first number is always the same specific field, the second number is always a different specific field, and so on - you just don't know what each position actually means!
