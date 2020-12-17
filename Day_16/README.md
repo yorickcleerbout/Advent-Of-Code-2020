@@ -11,10 +11,10 @@ The **rules for ticket fields** specify a list of fields that exist **somewhere*
 Each ticket is represented by a single line of comma-separated values. The values are the numbers on the ticket in the order they appear; every ticket has the same format. For example, consider this ticket:
 
 > .--------------------------------------------------------.<br>
-> | ????: 101 ?????: 102 ??????????: 103 ???: 104 |<br>
-> | |<br>
-> | ??: 301 ??: 302 ???????: 303 ??????? |<br>
-> | ??: 401 ??: 402 ???? ????: 403 ????????? |<br>
+> | ????: 101 ?????: 102 ??????????: 103 ???: 104           |<br>
+> |                                                         |<br>
+> | ??: 301 ??: 302 ???????: 303 ???????                    |<br>
+> | ??: 401 ??: 402 ???? ????: 403 ?????????                |<br>
 > '--------------------------------------------------------'
 
 Here, `?` represents text in a language you don't understand. This ticket might be represented as `101,102,103,104,301,302,303,401,402,403`; of course, the actual train tickets you're looking at are **much** more complicated. In any case, you've extracted just the numbers in such a way that the first number is always the same specific field, the second number is always a different specific field, and so on - you just don't know what each position actually means!
@@ -25,9 +25,9 @@ For example, suppose you have the following notes:
 
 > class: 1-3 or 5-7<br>
 > row: 6-11 or 33-44<br>
-> seat: 13-40 or 45-50<br> > <br>
+> seat: 13-40 or 45-50<br>
 > your ticket:<br>
-> 7,1,14<br> > <br>
+> 7,1,14<br>
 > nearby tickets:<br>
 > 7,3,47<br>
 > 40,**4**,50<br> > **55**,2,20<br>
@@ -47,9 +47,9 @@ For example, suppose you have the following notes:
 
 > class: 0-1 or 4-19<br>
 > row: 0-5 or 8-19<br>
-> seat: 0-13 or 16-19<br> > <br>
+> seat: 0-13 or 16-19<br>
 > your ticket:<br>
-> 11,12,13<br> > <br>
+> 11,12,13<br>
 > nearby tickets:<br>
 > 3,9,18<br>
 > 15,1,5<br>
