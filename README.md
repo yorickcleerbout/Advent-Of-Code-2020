@@ -27,7 +27,7 @@ If you want to try it out your self, you can sign up on there [website!](https:/
 | ✔ [Day 16: Ticket Translation](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_16)                                                                                         |     🌟     |    🌟      |
 | ✔ [Day 17: Conway Cubes](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_17)                                                                                         |     🌟     |    🌟      |
 | ✔ [Day 18: Operation Order](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_18)                                                                                        |     🌟     |     🌟     |
-| [Day 19: TBD]()                                                                                         |          |          |
+| ✔ [Day 19: Monster Messages](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_19)                                                                                         |    🌟      |     🌟     |
 | [Day 20: TBD]()                                                                                         |          |          |
 | [Day 21: TBD]()                                                                                         |          |          |
 | [Day 22: TBD]()                                                                                         |          |          |
