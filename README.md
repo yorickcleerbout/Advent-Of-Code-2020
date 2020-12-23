@@ -31,6 +31,6 @@ If you want to try it out your self, you can sign up on there [website!](https:/
 | ✔ [Day 20: Jurassic Jigsaw](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_120)                                                                                         |     🌟     |    🌟      |
 | ✔ [Day 21: Allergen Assessment](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_21)                                                                                         |     🌟     |     🌟     |
 | ✔ [Day 22: Crab Combat](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_22)                                                                                         |     🌟     |    🌟      |
-| [Day 23: TBD]()                                                                                         |          |          |
+| ✔ [Day 23: Crab Cups](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_23)                                                                                         |     🌟     |     🌟     |
 | [Day 24: TBD]()                                                                                         |          |          |
 | [Day 25: TBD]()                                                                                         |          |          |
