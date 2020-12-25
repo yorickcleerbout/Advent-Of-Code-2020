@@ -33,4 +33,4 @@ If you want to try it out your self, you can sign up on there [website!](https:/
 | ✔ [Day 22: Crab Combat](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_22)                                                                                         |     🌟     |    🌟      |
 | ✔ [Day 23: Crab Cups](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_23)                                                                                         |     🌟     |     🌟     |
 | ✔ [Day 24: Lobby Layout](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_24)                                                                                         |    🌟     |    🌟      |
-| [Day 25: TBD]()                                                                                         |          |          |
+| ✔ [Day 25: Combo Breaker](https://github.com/yorickcleerbout/Advent-Of-Code-2020/tree/main/Day_25)                                                                                         |     🌟     |      🌟(No puzzle)    |
